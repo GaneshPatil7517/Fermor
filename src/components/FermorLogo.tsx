@@ -1,4 +1,5 @@
 import React from 'react';
+import logoImg from '../assets/logo.png';
 
 interface FermorLogoProps {
   className?: string;
@@ -26,7 +27,7 @@ export const FermorLogo: React.FC<FermorLogoProps> = ({
     <div className={`inline-flex items-center ${gap} select-none ${className}`}>
       {/* Official Fermor Logo Image */}
       <img
-        src="/logo.png"
+        src={logoImg}
         alt="Fermor Logo"
         className={`${imgH} w-auto object-contain transition-transform duration-200 hover:scale-105`}
       />
