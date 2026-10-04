@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#0A0F1D" />
+  <path d="M22 36C22 33.7909 23.7909 32 26 32H74C76.2091 32 78 33.7909 78 36V40C78 42.2091 76.2091 44 74 44H44L34 56H74C76.2091 56 78 57.7909 78 60V64C78 66.2091 76.2091 68 74 68H26C23.7909 68 22 66.2091 22 64V60C22 57.7909 23.7909 56 26 56H56L66 44H26C23.7909 44 22 42.2091 22 40V36Z" fill="url(#fermor-grad)"/>
+  <defs>
+    <linearGradient id="fermor-grad" x1="22" y1="32" x2="78" y2="68" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E599" />
+      <stop offset="0.5" stop-color="#00C477" />
+      <stop offset="1" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+</svg>
